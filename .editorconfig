@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0045: Koşullu ifadeye dönüştürme
+dotnet_style_prefer_conditional_expression_over_assignment = true
